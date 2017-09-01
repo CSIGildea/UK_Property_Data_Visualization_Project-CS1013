@@ -1,0 +1,1 @@
+java -jar Group10.jar
