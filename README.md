@@ -20,6 +20,6 @@ The small table is included in the repo. The larger table(3.7gb) is available on
 ## Authors
 
 * **[Seán Hassett](https://github.com/Sean-Hassett)**
-* **Conor Gildea**
+* **[Conor Gildea](https://github.com/CSIGildea/)**
 * **Tobias Hallen**
 * **[Catalina Rete](https://github.com/catakitty)**
