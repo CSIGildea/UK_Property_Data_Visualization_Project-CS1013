@@ -1,5 +1,5 @@
 ﻿### CS1013-Team 10 ###
-Group project for Trinity College Dublin's CS1013 module.
+Group project for Trinity College Dublin's CS1013 module. 
 
 Our assignment was to build a program that displays data from the UK Land Registry pertaining to the sale and lease of properties in England and Wales between the years 1995 and part of 2017, using the processing library.
 
