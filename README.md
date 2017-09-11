@@ -3,7 +3,11 @@ Group project for Trinity College Dublin's CS1013 module.
 
 Our assignment was to build a program that displays data from the UK Land Registry pertaining to the sale and lease of properties in England and Wales between the years 1995 and part of 2017, using the processing library.
 
-<img src="https://github.com/CSIGildea/UK-Property-Data-Visualization-Project---CS1013/blob/master/Map%20Screenshot.PNG?raw=true">
+### *Video Demonstration of Program - Click Image Below to Watch*
+ 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7BHNk5xCse0&feature=youtu.be
+" target="_blank"><img src="https://i.imgur.com/0pVL4KO.png" 
+alt="IMAGE ALT TEXT HERE" width="960" height="540" border="10" /></a>
 
 The processing library did not provide any form of premade widgets (such as buttons), so the entire GUI library had to be coded. Our program incorporated a handburger menu, for all interactions with the user. We also had different sizes of datasets to use, we tackled the largest dataset, which resulted in a 3.7gb SQL Table (of 22 million property entries). 
 
